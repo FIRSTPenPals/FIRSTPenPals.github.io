@@ -159,7 +159,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-  color: #fec503;/*#fec
+  color: #fec503;/*#fec*/
 }
 .navbar-default .navbar-collapse {
   border-color: rgba(255, 255, 255, 0.02);
