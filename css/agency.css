@@ -12,7 +12,7 @@ body {
   color: #777777;
 }
 .text-primary {
-  color: #fed136;
+  color: #90FF85;
 }
 p {
   font-size: 14px;
@@ -29,7 +29,7 @@ a.active {
   outline: none;
 }
 a {
-  color: #fed136;
+  color: #90FF85;
 }
 a:hover,
 a:focus,
@@ -58,8 +58,8 @@ h6 {
 }
 .btn-primary {
   color: #ffffff;
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #90FF85;
+  border-color: #90FF85;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -93,11 +93,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #90FF85;
+  border-color: #90FF85;
 }
 .btn-primary .badge {
-  color: #fed136;
+  color: #90FF85;
   background-color: #ffffff;
 }
 .btn-xl {
@@ -140,11 +140,11 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #90FF85;
+  border-color: #90FF85;
 }
 .btn-xl .badge {
-  color: #fed136;
+  color: #90FF85;
   background-color: #ffffff;
 }
 .navbar-default {
@@ -152,7 +152,7 @@ fieldset[disabled] .btn-xl.active {
   border-color: transparent;
 }
 .navbar-default .navbar-brand {
-  color: #fed136;
+  color: #90FF85;
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
 }
 .navbar-default .navbar-brand:hover,
