@@ -102,8 +102,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-xl {
   color: #ffffff;
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #90FF85;
+  border-color: #90FF85;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -165,15 +165,15 @@ fieldset[disabled] .btn-xl.active {
   border-color: rgba(255, 255, 255, 0.02);
 }
 .navbar-default .navbar-toggle {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #90FF85;
+  border-color: #90FF85;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: white;
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #fed136;
+  background-color: #90FF85;
 }
 .navbar-default .nav li a {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -190,7 +190,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav > .active > a {
   border-radius: 0;
   color: white;
-  background-color: #fed136;
+  background-color: #90FF85;
 }
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
@@ -216,7 +216,7 @@ fieldset[disabled] .btn-xl.active {
     border-radius: 3px;
   }
   .navbar-default.navbar-shrink {
-    background-color: #222222;
+    background-color: #1D2A33;
     padding: 10px 0;
   }
   .navbar-default.navbar-shrink .navbar-brand {
@@ -576,7 +576,7 @@ section#contact .form-group textarea.form-control {
   height: 236px;
 }
 section#contact .form-control:focus {
-  border-color: #fed136;
+  border-color: #90FF85;
   box-shadow: none;
 }
 section#contact ::-webkit-input-placeholder {
@@ -645,7 +645,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-  background-color: #fed136;
+  background-color: #90FF85;
 }
 .btn:focus,
 .btn:active,
@@ -699,7 +699,7 @@ ul.social-buttons li a:active {
   height: 75px;
   width: 1px;
   margin-left: 35px;
-  background-color: #222222;
+  background-color: #1D2A33;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -710,7 +710,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
-  background-color: #222222;
+  background-color: #1D2A33;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
@@ -724,11 +724,11 @@ ul.social-buttons li a:active {
 }
 ::-moz-selection {
   text-shadow: none;
-  background: #fed136;
+  background: #90FF85;
 }
 ::selection {
   text-shadow: none;
-  background: #fed136;
+  background: #90FF85;
 }
 img::selection {
   background: transparent;
