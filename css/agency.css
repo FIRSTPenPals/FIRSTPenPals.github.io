@@ -54,7 +54,7 @@ h6 {
   background-color: #f7f7f7;
 }
 .bg-darkest-gray {
-  background-color: #222222;
+  background-color: #1D2A33;
 }
 .btn-primary {
   color: #ffffff;
@@ -148,7 +148,7 @@ fieldset[disabled] .btn-xl.active {
   background-color: #ffffff;
 }
 .navbar-default {
-  background-color: #222222;
+  background-color: #1D2A33;
   border-color: transparent;
 }
 .navbar-default .navbar-brand {
@@ -554,7 +554,7 @@ aside.clients img {
   margin: 50px auto;
 }
 section#contact {
-  background-color: #222222;
+  background-color: #1D2A33;
   background-image: url('../img/map-image.png');
   background-position: center;
   background-repeat: no-repeat;
@@ -630,7 +630,7 @@ ul.social-buttons {
 }
 ul.social-buttons li a {
   display: block;
-  background-color: #222222;
+  background-color: #1D2A33;
   height: 40px;
   width: 40px;
   border-radius: 100%;
