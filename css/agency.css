@@ -139,6 +139,7 @@ fieldset[disabled] .btn-primary.active {
   color: #90FF85;
   background-color: #1D2A33;
   border-color: #90FF85;
+  border-width: 1px;
 }
 .btn-xl:active,
 .btn-xl.active,
@@ -216,7 +217,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav > .active > a:focus {
   color: #90FF85;
   background-color: #1D2A33;
-  border-width: 1px;
+  border-radius: 1px;
   border-color: #90FF85;
 }
 @media (min-width: 768px) {
