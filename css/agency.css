@@ -111,6 +111,17 @@ fieldset[disabled] .btn-primary.active {
   font-size: 18px;
   padding: 20px 40px;
 }
+.btn-inverse {
+  color: #1D2A33;
+  background-color: #90FF85;
+  border-color: #90FF85;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-radius: 3px;
+  font-size: 18px;
+  padding: 20px 40px;
+}
 .btn-xl:hover,
 .btn-xl:focus,
 .btn-xl:active,
@@ -119,6 +130,15 @@ fieldset[disabled] .btn-primary.active {
   color: #1D2A33;
   background-color: #90FF85;
   border-color: #90FF85;
+}
+.btn-inverse:hover,
+.btn-inverse:focus,
+.btn-inverse:active,
+.btn-inverse.active,
+.open .dropdown-toggle.btn-inverse {
+  color: #90FF85;
+  background-color: #1D2A33;
+  border-color: #1D2A33;
 }
 .btn-xl:active,
 .btn-xl.active,
