@@ -138,7 +138,7 @@ fieldset[disabled] .btn-primary.active {
 .open .dropdown-toggle.btn-inverse {
   color: #90FF85;
   background-color: #1D2A33;
-  border-color: #1D2A33;
+  border-color: #90FF85;
 }
 .btn-xl:active,
 .btn-xl.active,
