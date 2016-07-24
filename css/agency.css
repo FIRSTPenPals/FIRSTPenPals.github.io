@@ -200,22 +200,23 @@ fieldset[disabled] .btn-xl.active {
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 1px;
-  color: white;
+  color: #90FF85;
 }
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
-  color: #fed136;
+  color: #90FF85;
   outline: none;
 }
 .navbar-default .navbar-nav > .active > a {
   border-radius: 0;
-  color: white;
+  color: #1D2A33;
   background-color: #90FF85;
 }
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: white;
-  background-color: #fec503;
+  color: #90FF85;
+  background-color: #1D2A33;
+  border-color: #90FF85;
 }
 @media (min-width: 768px) {
   .navbar-default {
