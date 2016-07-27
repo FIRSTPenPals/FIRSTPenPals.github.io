@@ -580,10 +580,9 @@ section#contact {
   background-image: url('../img/map-image.png');
   background-position: center;
   background-repeat: no-repeat;
-  color: #90FF85;
 }
 section#contact .section-heading {
-  color: white;
+  color: #90FF85;
 }
 section#contact .form-group {
   margin-bottom: 25px;
