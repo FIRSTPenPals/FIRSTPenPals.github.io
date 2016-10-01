@@ -762,7 +762,7 @@ body {
   webkit-tap-highlight-color: #fed136;
 }
 
-.nav-pills:focus {
+.nav-pills>li>a:hover {
   background-color: #1D2A33;
   color: #90FF85;
   border-color: #90FF85;
