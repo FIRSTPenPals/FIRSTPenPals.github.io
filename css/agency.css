@@ -761,3 +761,15 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #fed136;
 }
+
+.nav-pills {
+  background-color: #1D2A33;
+  color: #90FF85;
+  border-color: #90FF85;
+}
+
+.nav-pills > .active {
+  background-color: #90FF85;
+  color: #1D2A33;
+}
+
