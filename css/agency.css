@@ -762,13 +762,13 @@ body {
   webkit-tap-highlight-color: #fed136;
 }
 
-.nav-pills {
+.nav-pills:focus {
   background-color: #1D2A33;
   color: #90FF85;
   border-color: #90FF85;
 }
 
-.nav-pills > .active {
+.nav-pills > .active:focus {
   background-color: #90FF85;
   color: #1D2A33;
 }
