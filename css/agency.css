@@ -768,7 +768,7 @@ body {
   border-color: #90FF85;
 }
 
-.nav-pills > .active:focus {
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
   background-color: #90FF85;
   color: #1D2A33;
 }
