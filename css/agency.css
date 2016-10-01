@@ -766,6 +766,7 @@ body {
   background-color: #1D2A33;
   color: #90FF85;
   border-width:1px;
+  border-style: solid;
   border-color: #90FF85;
 }
 
